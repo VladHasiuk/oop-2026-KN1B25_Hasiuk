@@ -1,0 +1,66 @@
+# ООП на C#/.NET
+
+## Студент
+
+ПІБ: _ВАШЕ ПРІЗВИЩЕ ТА ІМ'Я_  
+Група: _ВАША ГРУПА_  
+Варіант: 8
+
+## Проєкт
+
+**DeliveryApp** — консольний застосунок для моделювання предметної області
+служби доставки (посилки та кур'єри).
+
+## Технології
+
+- C#
+- .NET 8
+- Visual Studio 2026
+- Git
+- GitHub
+
+## Структура репозиторію
+
+```
+oop-2026-delivery/
+│
+├── lab01/
+│   └── DeliveryApp/
+│       ├── Models/
+│       │   ├── Parcel.cs
+│       │   └── Courier.cs
+│       ├── Program.cs
+│       └── DeliveryApp.csproj
+│
+├── lab02/
+│   └── DeliveryApp/
+│       ├── Models/
+│       │   ├── Parcel.cs
+│       │   ├── Courier.cs
+│       │   └── ParcelStatus.cs
+│       ├── Program.cs
+│       └── DeliveryApp.csproj
+│
+├── docs/
+│   ├── lab01/report.md
+│   └── lab02/report.md
+│
+├── .gitignore
+└── README.md
+```
+
+## Запуск
+
+```bash
+cd lab02/DeliveryApp
+dotnet run
+```
+
+## Лабораторні роботи
+
+| № | Тема | Статус |
+|---|---|---|
+| 01 | Створення та організація проєкту | виконано |
+| 02 | Інкапсуляція та керування станом об'єктів | виконано |
+| 03 | Успадкування | |
+| ... | ... | |
