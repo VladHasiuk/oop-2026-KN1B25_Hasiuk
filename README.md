@@ -41,10 +41,6 @@ oop-2026-delivery/
 │       ├── Program.cs
 │       └── DeliveryApp.csproj
 │
-├── docs/
-│   ├── lab01/report.md
-│   └── lab02/report.md
-│
 ├── .gitignore
 └── README.md
 ```
