@@ -14,7 +14,7 @@
 ## Технології
 
 * C#
-* .NET 8
+* .NET 
 * Visual Studio 2026
 * Git
 * GitHub
