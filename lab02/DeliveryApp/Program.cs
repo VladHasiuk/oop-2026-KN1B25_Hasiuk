@@ -18,7 +18,7 @@ Console.WriteLine("\nКур'єри:");
 Console.WriteLine(courier1);
 Console.WriteLine(courier2);
 
-// 2. Валідація даних: спроби записати некоректні значення
+// 2. Валідація даних: 
 Console.WriteLine("\n--- Перевірка валідації ---");
 
 TryChange("Порожній номер посилки", () => parcel1.Number = "   ");
