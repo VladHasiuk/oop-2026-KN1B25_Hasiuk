@@ -22,52 +22,6 @@
 ## Структура репозиторію
 
 ```
-oop-2026-delivery/
-│
-├── lab01/
-│   └── DeliveryApp/
-│       ├── Models/
-│       │   ├── Parcel.cs
-│       │   └── Courier.cs
-│       ├── Program.cs
-│       └── DeliveryApp.csproj
-│
-├── lab02/
-│   └── DeliveryApp/
-│       ├── Models/
-│       │   ├── Parcel.cs
-│       │   ├── Courier.cs
-│       │   └── ParcelStatus.cs
-│       ├── Program.cs
-│       └── DeliveryApp.csproj
-│
-├── lab03/
-│   └── DeliveryApp/
-│       ├── Models/
-│       │   ├── Parcel.cs            (abstract)
-│       │   ├── StandardParcel.cs
-│       │   ├── ExpressParcel.cs
-│       │   ├── FragileParcel.cs
-│       │   ├── Courier.cs
-│       │   └── ParcelStatus.cs
-│       ├── Program.cs
-│       └── DeliveryApp.csproj
-│
-├── docs/
-│   ├── lab01/report.md
-│   ├── lab02/report.md
-│   └── lab03/report.md
-│
-├── .gitignore
-└── README.md
-```
-
-## Запуск
-
-```bash
-cd lab03/DeliveryApp
-dotnet run
-```
 
 ## Лабораторні роботи
 
