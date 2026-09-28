@@ -2,8 +2,8 @@
 
 ## Студент
 
-ПІБ: *Гасюк Владислав*  
-Група: *KN1-B25*  
+ПІБ: _ВАШЕ ПРІЗВИЩЕ ТА ІМ'Я_  
+Група: _ВАША ГРУПА_  
 Варіант: 8
 
 ## Проєкт
@@ -13,11 +13,11 @@
 
 ## Технології
 
-* C#
-* .NET 
-* Visual Studio 2026
-* Git
-* GitHub
+- C#
+- .NET 10
+- Visual Studio 2026
+- Git
+- GitHub
 
 ## Структура репозиторію
 
@@ -41,6 +41,23 @@ oop-2026-delivery/
 │       ├── Program.cs
 │       └── DeliveryApp.csproj
 │
+├── lab03/
+│   └── DeliveryApp/
+│       ├── Models/
+│       │   ├── Parcel.cs            (abstract)
+│       │   ├── StandardParcel.cs
+│       │   ├── ExpressParcel.cs
+│       │   ├── FragileParcel.cs
+│       │   ├── Courier.cs
+│       │   └── ParcelStatus.cs
+│       ├── Program.cs
+│       └── DeliveryApp.csproj
+│
+├── docs/
+│   ├── lab01/report.md
+│   ├── lab02/report.md
+│   └── lab03/report.md
+│
 ├── .gitignore
 └── README.md
 ```
@@ -48,18 +65,15 @@ oop-2026-delivery/
 ## Запуск
 
 ```bash
-cd lab02/DeliveryApp
+cd lab03/DeliveryApp
 dotnet run
 ```
 
 ## Лабораторні роботи
 
-|№|Тема|Статус|
-|-|-|-|
-|01|Створення та організація проєкту|виконано|
-|02|Інкапсуляція та керування станом об'єктів|виконано|
-|03|Успадкування||
-|...|...||
-
-
-
+| № | Тема | Статус |
+|---|---|---|
+| 01 | Створення та організація проєкту | виконано |
+| 02 | Інкапсуляція та керування станом об'єктів | виконано |
+| 03 | Успадкування та поліморфізм | виконано |
+| ... | ... | |
