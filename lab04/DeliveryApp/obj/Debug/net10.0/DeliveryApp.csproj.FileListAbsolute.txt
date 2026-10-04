@@ -1,0 +1,15 @@
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\bin\Debug\net10.0\DeliveryApp.exe
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\bin\Debug\net10.0\DeliveryApp.deps.json
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\bin\Debug\net10.0\DeliveryApp.runtimeconfig.json
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\bin\Debug\net10.0\DeliveryApp.dll
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\bin\Debug\net10.0\DeliveryApp.pdb
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.dll
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\refint\DeliveryApp.dll
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.pdb
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\DeliveryApp.genruntimeconfig.cache
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\ref\DeliveryApp.dll
+C:\Users\Admin\Downloads\oop-2026-delivery\oop-2026-delivery\lab04\DeliveryApp\obj\Debug\net10.0\Delivery.1FF6E028.Up2Date
